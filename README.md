@@ -10,10 +10,11 @@ This is a small project that I built quickly in 1 day. This can be used to take 
 
 To install you first have to run:
 
-pip3 install FreeSimpleGUI PIL
+`pip3 install FreeSimpleGUI PIL`
+
 after that you can run it using:
 
-python3 converter.py
+`python3 converter.py`
 ## Usage
 
 **Step 1:**
