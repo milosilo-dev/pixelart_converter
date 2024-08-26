@@ -39,11 +39,12 @@ while running:
         if file_path:
             file_name = file_path.split("/")
             file_name = file_name[len(file_name) - 1].split(".")[0]
+            extension = file_name = file_name[len(file_name) - 1].split(".")[1]
             
             print(f"File selected: {file_path}")
             print(f"Resize width: {new_width}px")
-            print(f"File name: {file_name}.png")
-            print(f"New File Name: {new_file_name}.png")
+            print(f"File name: {file_name}.{extension}")
+            print(f"New File Name: {new_file_name}.{extension}")
             
             convert(file_path, new_width, file_name, new_file_name)
             
