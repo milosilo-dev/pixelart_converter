@@ -1,6 +1,6 @@
 # Pixel Art Converter
 
-![A view of the UI for the program.](https://ibb.co/SNWJjS3)
+[![Screenshot-from-2024-08-26-09-17-24.png](https://i.postimg.cc/T25WNM7t/Screenshot-from-2024-08-26-09-17-24.png)](https://postimg.cc/kD94DZdS)
 
 ## **About**
 
